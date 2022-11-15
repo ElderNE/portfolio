@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b3fc39ed.css",
-    "main.js": "/static/js/main.3189987c.js",
+    "main.js": "/static/js/main.dc57b815.js",
     "static/media/background.jpg": "/static/media/background.82d97f2e13e5cc4d72b1.jpg",
     "static/media/Game15.jpg": "/static/media/Game15.6cef0e11f5efe64b1f7e.jpg",
     "static/media/mgu.png": "/static/media/mgu.c6b4c1c1e0f154b5e71e.png",
     "static/media/abel-v18-latin-regular.svg": "/static/media/abel-v18-latin-regular.ca9ac8be659ae4d69593.svg",
-    "static/media/school.jpg": "/static/media/school.b4c9c583b84eee9fd30c.jpg",
+    "static/media/school.jpg": "/static/media/school.475605d1b360e9d50d71.jpg",
     "static/media/background-md.jpg": "/static/media/background-md.8e080279eeb4fb9dae60.jpg",
     "static/media/photo.jpg": "/static/media/photo.cf9072137d7d91a71f99.jpg",
     "static/media/weather.jpg": "/static/media/weather.2d8514d974e41abf65fa.jpg",
@@ -24,10 +24,10 @@
     "static/media/telegram-brands-black.svg": "/static/media/telegram-brands-black.499bcfb266f4e064c7c8e03dd77a5783.svg",
     "static/media/telegram-brands-gray.svg": "/static/media/telegram-brands-gray.c7a764139655e5c92e82b3d4cb691340.svg",
     "main.b3fc39ed.css.map": "/static/css/main.b3fc39ed.css.map",
-    "main.3189987c.js.map": "/static/js/main.3189987c.js.map"
+    "main.dc57b815.js.map": "/static/js/main.dc57b815.js.map"
   },
   "entrypoints": [
     "static/css/main.b3fc39ed.css",
-    "static/js/main.3189987c.js"
+    "static/js/main.dc57b815.js"
   ]
 }
